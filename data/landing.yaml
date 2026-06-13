@@ -1,0 +1,14 @@
+gamesGrid:
+  enable: true
+  weight: 10
+  template: feature grid
+  title: Fighting Game Notes by Gr8Stalin's Mustache
+  subtitle: A collection of personal notes I've taken for various Fighting games for semi-casual play
+  items:
+  - title: Street Fighter 6
+    description: Notes on the other characters I play outside of Chun-Li.
+    ctaLink:
+      text: Open SF6 notes
+  - title: Fatal Fury City of the Wolves
+    ctaLink:
+      text: Open CotW notes
