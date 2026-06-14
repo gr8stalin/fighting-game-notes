@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/example-page/</loc>
-    <lastmod>2026-06-13T19:15:58-04:00</lastmod>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2026-06-13T19:15:58-04:00</lastmod>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/ryu/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-13T19:15:58-04:00</lastmod>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/ryu/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/ryu/educational-content/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/ryu/combos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/ryu/oki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/m-bison/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/m-bison/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/m-bison/educational-content/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/m-bison/combos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/m-bison/oki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/juri/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/juri/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/juri/educational-content/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/juri/combos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/street-fighter-6/juri/oki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/cotw/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/cotw/mr-karate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/cotw/b-jenet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/cotw/mai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fighting-game-notes/tags/</loc>
   </url>
 </urlset>
