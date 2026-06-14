@@ -22,12 +22,11 @@ title = 'Fighting Game Notes by Gr8Stalin'
 [params]
 
     [params.footer]
-        copyright = "Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
-        version = true
+        copyright = "Built with GitHub Pages and [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
     
     [params.social]
-        github = "https://github.com/gr8stalin/fighting-game-notes"
-        twitter = "https://x.com/MustacheStalin"
+        github = "gr8stalin/fighting-game-notes"
+        twitter = "MustacheStalin"
 
     [params.docs]
         title = "Fighting Game Notes"
