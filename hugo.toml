@@ -18,3 +18,18 @@ title = 'Fighting Game Notes by Gr8Stalin'
     url = "/docs/"
     identifier = "docs"
     weight = 10
+
+[params]
+
+    [params.footer]
+        copyright = "Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+        version = true
+    
+    [params.social]
+        github = "https://github.com/gr8stalin/fighting-game-notes"
+        twitter = "https://x.com/MustacheStalin"
+
+    [params.docs]
+        title = "Fighting Game Notes"
+        darkMode = true
+        repoUrl = "https://github.com/gr8stalin/fighting-game-notes"
