@@ -28,6 +28,12 @@ Day 1 combos can take you from Rookie to Master so long as you can keep opponent
 |-----|---------|------|-----|
 |2MK DRC > 5MP > 2HP xx 214HP|+31|1898|Ending with bomb is your win condition, but you *can* replace 214HP with [4]6MP.|
 
+### Meterless jumpin
+
+|Combo|Advantage|Damage|Notes|
+|-----|---------|------|-----|
+|jHK > 2HP xx [4]6HP|+14|2980|Easy meterless jumpin.|
+
 ### Meterless punishes
 
 |Combo|Advantage|Damage|Notes|
@@ -36,7 +42,7 @@ Day 1 combos can take you from Rookie to Master so long as you can keep opponent
 |2MP xx 214HP|+31|1620||DRev punish but with bomb oki|
 |DI > 2HP xx 214HP|+31||Counter DI punish|
 |Wallsplat > 2HP xx 214HP|+31|1440|Blocked DI wallsplat combo|
-|4HK > 5MP > 2MP xx 4-6MP|+24|3020|Meterless DP punish|
+|4HK > 5MP > 2MP xx [4]6MP|+24|3020|Meterless DP punish|
 
 ### Win condition combo
 
@@ -50,6 +56,10 @@ This button > OD special cancel makes M. Bison pretty meter efficient at a novic
 
 More notes on this in [oki](docs/street-fighter-6/m-bison/oki/#heavy-backfist-combo)
 
-## Drive Rush Combos
+## Metered Combos
+
+|Combo|Advantage|Damage|Notes|
+|-----|---------|------|-----|
+|HK > dash > 2HP xx 236KK > 6HP xx [4]6LP|+27|3700|You can choose to substitute the LP crusher with super 1 or cancel the LP crusher into super 3.|
 
 ## Meterdump Combos
