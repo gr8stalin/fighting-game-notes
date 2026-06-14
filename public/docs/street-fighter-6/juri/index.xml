@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Juri on My New Hugo Project</title>
+		<link>http://localhost:1313/docs/street-fighter-6/juri/</link>
+		<description>Recent content in Juri on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/docs/street-fighter-6/juri/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About Juri</title>
+				<link>http://localhost:1313/docs/street-fighter-6/juri/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/street-fighter-6/juri/about/</guid>
+				<description>&lt;p&gt;Juri is the drive rush character of Street Fighter 6 where all it takes is a drive rush or 2MK DRC to snowball her way to victory. She&amp;rsquo;s a very versatile all-rounder similar to Chun but with a stronger focus on aggression. Her gimmick is &amp;ldquo;Fuha stocks&amp;rdquo; that enhance all of her 236K specials so there&amp;rsquo;s slight resource management, and her 214214P super is an install that enhances her frame data and juggle potential.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Educational Content</title>
+				<link>http://localhost:1313/docs/street-fighter-6/juri/educational-content/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/street-fighter-6/juri/educational-content/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Combos</title>
+				<link>http://localhost:1313/docs/street-fighter-6/juri/combos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/street-fighter-6/juri/combos/</guid>
+				<description>&lt;p&gt;Juri has relatively easy combos outside of Super 2 extensions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-1-combos&#34;&gt;Day 1 Combos &lt;a href=&#34;#day-1-combos&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&#34;meterless-bnbs&#34;&gt;Meterless BnBs &lt;a href=&#34;#meterless-bnbs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Combo&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Advantage&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Damage&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Notes&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Light &amp;gt; 5/2LP xx 214LP&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;+37&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;960&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Basic light into fuha store. You will be doing this a lot.&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Light &amp;gt; 5/2LP or 5LK xx 623LP&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;+37&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;960&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Basic light into oki/super 3. Hitting ch 2LK will let you combo 5LK to check basically anything.&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;5MP &amp;gt; 2MP xx 214MK&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;+37&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Basic medium &amp;gt; medium.&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Oki</title>
+				<link>http://localhost:1313/docs/street-fighter-6/juri/oki/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/street-fighter-6/juri/oki/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

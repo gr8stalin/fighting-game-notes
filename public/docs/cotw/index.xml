@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Fatal Fury - City of the Wolves on My New Hugo Project</title>
+		<link>http://localhost:1313/docs/cotw/</link>
+		<description>Recent content in Fatal Fury - City of the Wolves on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/docs/cotw/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mr. Karate</title>
+				<link>http://localhost:1313/docs/cotw/mr-karate/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/cotw/mr-karate/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>B. Jenet</title>
+				<link>http://localhost:1313/docs/cotw/b-jenet/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/cotw/b-jenet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mai Shiranui</title>
+				<link>http://localhost:1313/docs/cotw/mai/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/cotw/mai/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
