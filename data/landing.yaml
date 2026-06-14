@@ -15,13 +15,11 @@ gamesGrid:
       text: Open CotW notes
       url: /docs/cotw/
 
-# # Hero
 hero:
   enable: false
   weight: 15
   template: hero
 
-# # Feature Grid
 featureGrid:
   enable: false
   weight: 20
@@ -32,7 +30,6 @@ imageText:
   weight: 25
   template: image text
 
-# # Image compare
 imageCompare:
   enable: false
   weight: 30

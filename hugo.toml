@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gr8stalin.github.io/fighting-game-notes/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Fighting Game Notes by Gr8Stalin'
 
 [module]
     [[module.imports]]
