@@ -1,5 +1,4 @@
 ---
-weight: 123
 title: "vs Rashid"
 description: ""
 icon: "article"

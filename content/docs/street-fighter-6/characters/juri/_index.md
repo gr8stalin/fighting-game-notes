@@ -1,5 +1,5 @@
 ---
-title: "Character Counterplay"
+title: "Juri"
 description: ""
 icon: "article"
 toc: true

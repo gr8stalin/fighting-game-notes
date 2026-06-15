@@ -1,5 +1,4 @@
 ---
-weight: 126
 title: "vs Marisa"
 description: ""
 icon: "article"

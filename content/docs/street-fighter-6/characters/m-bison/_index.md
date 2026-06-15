@@ -1,5 +1,5 @@
 ---
-title: "Character Counterplay"
+title: "M. Bison"
 description: ""
 icon: "article"
 toc: true

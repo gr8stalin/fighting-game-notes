@@ -1,5 +1,4 @@
 ---
-weight: 121
 title: "System Tech and Neutral"
 description: ""
 icon: "article"

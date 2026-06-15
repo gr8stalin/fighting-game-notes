@@ -1,8 +1,6 @@
 ---
-title: "vs Mai"
+title: "Oki"
 description: ""
 icon: "article"
 toc: true
 ---
-
-{{< youtube UGmx-o_i0po >}}

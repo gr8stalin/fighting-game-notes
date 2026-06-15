@@ -1,5 +1,4 @@
 ---
-weight: 124
 title: "vs M. Bison"
 description: ""
 icon: "article"
