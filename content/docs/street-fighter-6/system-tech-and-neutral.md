@@ -1,6 +1,6 @@
 ---
 title: "System Tech and Neutral"
-description: ""
+description: "Generic strategies and counterplay that apply either globally or to the system"
 icon: "article"
 toc: true
 ---
