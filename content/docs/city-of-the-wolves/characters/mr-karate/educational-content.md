@@ -7,4 +7,4 @@ toc: true
 
 Meno's release BnB video for Mr. Karate
 
-{{< youtube v=vsDyTj0ZboY >}}
+{{< youtube vsDyTj0ZboY >}}
