@@ -14,6 +14,10 @@ gamesGrid:
     ctaLink:
       text: Open CotW notes
       url: "docs/cotw/"
+  - title: Street Fighter 3 - Third Strike
+    ctaLink:
+      text: Open 3s notes
+      url: "docs/street-fighter-third-strike/"
 
 hero:
   enable: false
