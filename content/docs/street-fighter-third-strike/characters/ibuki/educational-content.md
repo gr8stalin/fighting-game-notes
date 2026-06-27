@@ -13,9 +13,9 @@ toc: true
 
 Ibuki general guide
 
-{{ youtube csdWZXkvltU }}
+{{< youtube csdWZXkvltU >}}
 
 Ibuki BnBs/Combos
 
-{{ youtube dz0uMl9hRCQ }}
+{{< youtube dz0uMl9hRCQ >}}
 
