@@ -18,6 +18,10 @@ gamesGrid:
     ctaLink:
       text: Open 3s notes
       url: "docs/street-fighter-third-strike/"
+  - title: UNDER NIGHT IN-BIRTH II Sys:Celes
+    ctaLink:
+      text: Open UNI 2 notes
+      url: "docs/under-night-2/"
 
 hero:
   enable: false
