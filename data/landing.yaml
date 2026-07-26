@@ -13,7 +13,7 @@ gamesGrid:
   - title: Fatal Fury City of the Wolves
     ctaLink:
       text: Open CotW notes
-      url: "docs/cotw/"
+      url: "docs/city-of-the-wolves/"
   - title: Street Fighter 3 - Third Strike
     ctaLink:
       text: Open 3s notes
@@ -22,6 +22,10 @@ gamesGrid:
     ctaLink:
       text: Open UNI 2 notes
       url: "docs/under-night-2/"
+  - title: Marvel Tokon - Fighting Souls
+    ctaLink:
+      text: Open Tokon notes
+      url: "docs/marvel-tokon/"
 
 hero:
   enable: false
