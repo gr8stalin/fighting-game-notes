@@ -31,3 +31,11 @@ In every PvP match of Tokon you'll play, you start with one bar and one teammate
 This segway into a new area of the stage after a combo is called a "Break" in-game, and colloquially called "wallbreak" from how ArcSys implemented a similar mechanic into Guilty Gear Strive.
 
 Every time you reunite with a teammate, you unlock another green bar in the Assembly Gauge.
+
+Additionally, losing a round will reunite you with a teammate.
+
+## Disassembled state
+
+Following a perfect reflect against an opponent's crossover, the opponent's teammate who came to the lead character's defense will gain a temporary projectile hitbox as they reel back.
+
+If the opponent's defending teammate makes contact with their lead character, it counts as a special strike that applies the **disassembled** state. Similar to burnout in Street Fighter 6, disassembled state temporarily removes access to the entire assist system, including combat actions such as Tokon Assemble.
