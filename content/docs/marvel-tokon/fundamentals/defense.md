@@ -20,7 +20,7 @@ You can 4L + A your opponent's 4L + A, causing a clash that returns to neutral.
 
 Additionally, you can tag in the teammate who assisted your defense.
 
-A special note: by default, crossover summons the teammate at 3 o'clock. If the teammate at 3 o'clock is currently on screen or recharging, holding down will summon the teammate at 6 o'clock, and holding left will summon the ally at 9 o'clock.
+A special note: by default, crossover summons the teammate at 3 o'clock. If the teammate at 3 o'clock is currently on screen or recharging, holding down will summon the teammate at 6 o'clock, and holding left will summon the teammate at 9 o'clock.
 
 ### Perfect reflect
 
