@@ -10,7 +10,7 @@ Tag fighter pressure has its own special flavor of fighting game pressure, and i
 
 ## Pressure 101 from Brian_F
 
-{{ youtube A5tgmDHAYRc }}
+{{% youtube A5tgmDHAYRc %}}
 
 ### Pressure & frametrapping
 
