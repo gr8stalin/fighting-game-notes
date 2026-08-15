@@ -41,12 +41,22 @@ If you're in the low ranks and confident about returning to neutral vs whoever y
 
 ### The foundational tag fighter mixup
 
-Following along with the video, after you press 5A after that first link attack, the generic assist will hit and you'll do the subsequent link attack, but what you can do *as you're wrapping up the link attack* is cancel the 5H into a safe special and simultaneously **tag in your teammate**.
+Following along with the video, after you press 5A after that first link attack, the generic assist will hit and you'll do the subsequent link attack, but what you can do *as you're wrapping up the link attack* is cancel the 5H into a safe special and simultaneously **tag in your teammate**:
+
+`5L > 5M > 5H xx special > 5A > 5L > 5M > 5H xx special > tag`
 
 Your main character will complete their special during the swap, which protects your teammate from getting attacked as they become your new main character.
 
-Brian goes over two mixups in the video: one for characters with overheads that aren't the universal overhead, and another for characters without separate overheads.
+Now that you have your tagged-in teammate as your new point, now you get mix.
+
+Brian goes over two mixups in the video: one for characters with overheads that aren't the universal overhead, and another for characters without separate overheads. Characters *with* separate overheads can choose to just dial in the overhead or go low with 2M, but the more important version is for characters **without** separate overheads.
+
+Unlike other fighting games with instant air inputs like Street Fighter (i.e., Chun-Li's Instant Air Legs), Tokon asks you to be able to do instant air inputs *very* early in your time playing the game.
+
+With your new point character, you'll want to do instant air dash (2369 + Dash, aka **IAD**) and either go high with j5M or go low with 2M. For the former, you'll jump, IAD, and press 5M as fast as you can without overlapping the dash and 5M. For the latter, you'll jump, IAD, land and do 2M as fast as you can without overlapping inputs.
+
+If either hits, you do another combo.
 
 ### Some notes and caveats
 
-The basic principle shown in Brian's vid is universal. Some character like Magik can't do the whole `link attack > special > assist > link attack > special` loop *exactly*, but get something similar.
+The basic principle shown in Brian's vid is universal. Some characters like Magik can't do the whole `link attack > special > assist > link attack > special` loop *exactly*, but get something similar.
