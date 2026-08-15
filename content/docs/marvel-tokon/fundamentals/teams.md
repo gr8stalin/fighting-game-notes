@@ -10,7 +10,9 @@ Tokon is what's known as a tag fighter: a fighting game where you pick a leading
 
 Tag fighters can't really be played like traditional 1v1 fighters where you only play one character, and Tokon is no exception.
 
-## Swapping teammates
+## Mechanics
+
+### Swapping teammates
 
 The [T]eam button swaps your current character for one of your teammates:
 
@@ -20,7 +22,7 @@ The [T]eam button swaps your current character for one of your teammates:
 
 You can use the Team button to swap the position of characters in your roster while in-game, but it's not something you can get away with constantly.
 
-## Your team and the Assembly Gauge
+### Your team and the Assembly Gauge
 
 You have three green bars under your health bar. They represent the "Assembly Gauge" (a reference to Marvel's Avengers catchphrase), with each bar in the gauge representing one assist you can call in from one of your three other teammates.
 
@@ -34,8 +36,10 @@ Every time you reunite with a teammate, you unlock another green bar in the Asse
 
 Additionally, losing a round will reunite you with a teammate.
 
-## Disassembled state
+### Disassembled state
 
 Following a perfect reflect against an opponent's crossover, the opponent's teammate who came to the lead character's defense will gain a temporary projectile hitbox as they reel back.
 
 If the opponent's defending teammate makes contact with their lead character, it counts as a special strike that applies the **disassembled** state. Similar to burnout in Street Fighter 6, disassembled state temporarily removes access to the entire assist system, including combat actions such as Tokon Assemble.
+
+## Constructing a Team

@@ -61,7 +61,10 @@ However, link attacks are special in that they can use *combinations of standing
 
 This is a familiar mechanic to tag fighter players (i.e., Dragonball FighterZ, Marvel vs Capcom) and Unist players, who describe this kind of mechanic as a **magic sequence**. It will feel slightly similar to Guilty Gear +R and Xrd players who are used to ArcSys' **gatling** mechanic.
 
-Additionally, you can skip buttons in a link attack: you can start from mediums and go into heavies, or you can start from lights and go directly into heavies.
+Additionally:
+
+- You can skip buttons in a link attack: you can start from mediums and go into heavies, or you can start from lights and go directly into heavies.
+- There is an arbitrary limit of 4 normals in a link attack. The player must either cancel into a special, assist, or jump after the 4th normal.
 
 ### Autocombos
 
@@ -115,6 +118,8 @@ Sometimes you'll land these after swapping places with a teammate, who will need
 
 ### Super assemble
 
-You can follow up a super with another super from one of your teammates. After landing a super (236MH), you can either press A as the super ends or hold A through the entire super cutscene to have an ally follow up with their own super.
+You can follow up a super with another super from one of your teammates. After landing a super (236MH), you can either press A as the super ends or hold A through the entire super cutscene to have a teammate follow up with their own super.
 
 Remember that your teammate's super will also cost additional meter in addition to one bar of the Assembly Gauge.
+
+Additionally, **you will swap to the last teammate of the Super Assemble** after it is completed.
