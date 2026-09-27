@@ -26,6 +26,11 @@ gamesGrid:
     ctaLink:
       text: Open Tokon notes
       url: "docs/marvel-tokon/"
+  - title: Fighting game concepts
+    description: YouTube videos about general/global fighting game concepts
+    ctaLink:
+      text: Open Tokon notes
+      url: "docs/marvel-tokon/"
 
 hero:
   enable: false
